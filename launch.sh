@@ -1,0 +1,1 @@
+spark-submit --master yarn ScalaLearn-assembly-0.1.jar
